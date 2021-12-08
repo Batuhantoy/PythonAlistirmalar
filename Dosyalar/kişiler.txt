@@ -1,0 +1,3 @@
+Batuhan Toy,75,80,90
+Özgür Dogan Güneş,20,15,32
+Mehmet Berk Elmalı,57,23,50
